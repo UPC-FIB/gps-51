@@ -4,7 +4,7 @@ import transform
 
 def main():
     """ core del la prova"""
-    string = input("Introdueix un string:")
+    string = input("Introdueix un string: ")
 
     print("Quina transformació vols?")
     print("[1] Text amb tot majuscules")

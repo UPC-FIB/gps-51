@@ -39,3 +39,7 @@ jobs:
     - name: Analyze code with Pylint
       run: |
         pylint main
+    
+    - name: Build Docker image
+      run: docker build -t build-docker-image-test:latest .
+

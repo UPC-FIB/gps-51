@@ -1,7 +1,7 @@
 """ fitxer de funcions auxiliars"""
 
 
-def to_upper_case(string):
+def to_uppe_case(string):
     """string to upper case"""
     return string.upper()
 
